@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # <H1> This is My 1st MARKDOWN Header
 # <H2> This is My 2nd
 # <H3> This is My 3rd
