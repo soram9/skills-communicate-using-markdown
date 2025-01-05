@@ -6,4 +6,4 @@
 # <H6> This is My 6th
 
 
-This completes my f1rst MARKDOWN File
+This completes my 1st MARKDOWN File
